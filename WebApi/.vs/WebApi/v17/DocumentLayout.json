@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Desktop\\wojkub_kolos\\WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B703C09D-A712-45AC-B717-3EB489C96744}|WebApi.csproj|c:\\users\\student\\desktop\\wojkub_kolos\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B703C09D-A712-45AC-B717-3EB489C96744}|WebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B703C09D-A712-45AC-B717-3EB489C96744}|WebApi.csproj|c:\\users\\student\\desktop\\wojkub_kolos\\webapi\\model\\keyboards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B703C09D-A712-45AC-B717-3EB489C96744}|WebApi.csproj|solutionrelative:model\\keyboards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B703C09D-A712-45AC-B717-3EB489C96744}|WebApi.csproj|c:\\users\\student\\desktop\\wojkub_kolos\\webapi\\dto\\keyboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B703C09D-A712-45AC-B717-3EB489C96744}|WebApi.csproj|solutionrelative:dto\\keyboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B703C09D-A712-45AC-B717-3EB489C96744}|WebApi.csproj|c:\\users\\student\\desktop\\wojkub_kolos\\webapi\\controllers\\keyboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B703C09D-A712-45AC-B717-3EB489C96744}|WebApi.csproj|solutionrelative:controllers\\keyboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B703C09D-A712-45AC-B717-3EB489C96744}|WebApi.csproj|c:\\users\\student\\desktop\\wojkub_kolos\\webapi\\bll\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B703C09D-A712-45AC-B717-3EB489C96744}|WebApi.csproj|solutionrelative:bll\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B703C09D-A712-45AC-B717-3EB489C96744}|WebApi.csproj|c:\\users\\student\\desktop\\wojkub_kolos\\webapi\\bll\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B703C09D-A712-45AC-B717-3EB489C96744}|WebApi.csproj|solutionrelative:bll\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\wojkub_kolos\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\wojkub_kolos\\WebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:38:24.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KeyboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\wojkub_kolos\\WebApi\\Controllers\\KeyboardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\KeyboardController.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\wojkub_kolos\\WebApi\\Controllers\\KeyboardController.cs",
+              "RelativeToolTip": "Controllers\\KeyboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:56:03.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\wojkub_kolos\\WebApi\\BLL\\Service.cs",
+              "RelativeDocumentMoniker": "BLL\\Service.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\wojkub_kolos\\WebApi\\BLL\\Service.cs",
+              "RelativeToolTip": "BLL\\Service.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:45:22.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KeyboardDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\wojkub_kolos\\WebApi\\DTO\\KeyboardDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\KeyboardDTO.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\wojkub_kolos\\WebApi\\DTO\\KeyboardDTO.cs",
+              "RelativeToolTip": "DTO\\KeyboardDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:43:19.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Keyboards.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\wojkub_kolos\\WebApi\\Model\\Keyboards.cs",
+              "RelativeDocumentMoniker": "Model\\Keyboards.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\wojkub_kolos\\WebApi\\Model\\Keyboards.cs",
+              "RelativeToolTip": "Model\\Keyboards.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:39:48.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\wojkub_kolos\\WebApi\\BLL\\IService.cs",
+              "RelativeDocumentMoniker": "BLL\\IService.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\wojkub_kolos\\WebApi\\BLL\\IService.cs",
+              "RelativeToolTip": "BLL\\IService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:45:12.609Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
