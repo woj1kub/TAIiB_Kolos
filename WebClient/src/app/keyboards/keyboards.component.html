@@ -1,0 +1,61 @@
+<div class="container">
+  <button (click)="toggle()">
+    {{ showForm ? "Anuluj dodawanie klawiature" : "Dodaj klawiature" }}
+  </button>
+
+  <div *ngIf="!showForm">
+  <h2>Tabela klawiature</h2>
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Model</th>
+        <th>Typ</th>
+        <th>Usuń</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let keyboard of keyboard">
+        <td>{{keyboard.id}}</td>
+        <td>{{keyboard.model}}</td>
+        <td>{{keyboard.rodzaj}}</td>
+        <td>
+          <button (click)="deleteKeyboard(keyboard.id)">Usuń</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+  <div *ngIf="showForm">
+  <div>
+    <h2>Dodaj klawiature</h2>
+    <form (ngSubmit)="onSubmit()" #keyboardFrom="ngForm">
+      <div class="form-group">
+        <label for="model">Model:</label>
+        <input
+          type="text"
+          id="model"
+          name="model"
+          class="form-control"
+          required
+          [(ngModel)]="new.model"
+        />
+      </div>
+      <div class="form-group">
+        <label for="rodzaj">Rodzaj:</label>
+        <select name="rodzaj" id="rodzaj">
+          <option *ngFor="let type of keyboardTypeKeys" [value]="+type">{{type}}</option>
+        </select>
+      </div>
+      <button
+        type="submit"
+        class="btn btn-primary"
+        [disabled]="!keyboardFrom.form.valid"
+      >
+        Dodaj
+      </button>
+    </form>
+  </div>
+  </div>
+</div>

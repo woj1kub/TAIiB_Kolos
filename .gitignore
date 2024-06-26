@@ -1,1 +1,5 @@
-WebClient/.angular
+**/.angular
+**/.vscode
+**/node_modules
+**/bin
+**/.vs
